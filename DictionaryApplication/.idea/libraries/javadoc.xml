@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/freetts-1.2.2-bin.zip!/freetts-1.2/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/json-simple-1.1.jar.zip!/" recursive="false" />
+  </library>
+</component>
